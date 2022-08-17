@@ -15,7 +15,10 @@ src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c040
 
 - 📫 How to reach me **kartikktyr@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Linked In:</h3>
+<a href="https://www.linkedin.com/in/kartik-katiyar-71096a1a0/"><img width="60" height="60"  src="https://brand.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg"></img></a>
+
+
 <p align="left">
 </p>
 
